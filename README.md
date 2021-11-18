@@ -25,3 +25,6 @@ JORMS utilizes the following libraries:
 
 
 # Continuing documentation in some point in future. 
+For now, example classes of the usage is located in:
+> src/com/github/sebyplays/jorms/test/Main.java
+> > src/com/github/sebyplays/jorms/test/Human.java
