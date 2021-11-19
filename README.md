@@ -18,10 +18,10 @@ This creates, in effect, a "virtual object database" that can be used from withi
 
 JORMS utilizes the following libraries:
 
-- [lombok] - HTML enhanced for web apps!
-- [sqlite-driver] - awesome web-based text editor
-- [mysql-driver] - Markdown parser done right. Fast and easy to extend.
-- [mariadb-driver] - great UI boilerplate for modern web apps
+- [lombok] - Automate your logging variables, and much more
+- [sqlite-driver] - An SQL driver for SQLite
+- [mysql-driver] - An SQL driver for MySQL.
+- [mariadb-driver] - An SQL driver for MariaDB
 
 
 # Continuing documentation in some point in future. 
