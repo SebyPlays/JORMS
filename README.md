@@ -24,7 +24,7 @@ JORMS utilizes the following libraries:
 - [mariadb-driver] - An SQL driver for MariaDB
 
 
-# Continuing documentation in some point in future. 
+# Continuing documentation at some point in future. 
 For now, example classes of the usage is located in:
 > src/com/github/sebyplays/jorms/test/Main.java
 > 
